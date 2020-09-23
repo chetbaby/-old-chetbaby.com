@@ -2,11 +2,9 @@ name: Dennis Brotzky
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
+avatar: ./avatars/2014-02-18_chetbaby.jpg
 social:
   - url: https://unsplash.com
   - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
   - url: https://github.com
 featured: true
